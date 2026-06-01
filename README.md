@@ -1,4 +1,4 @@
-# sumit582004
+# sumit
 # Hi there, I'm Sumit Kale! 👋
 
 A passionate Data Analyst and Web Development enthusiast. I love turning raw data into meaningful insights and building clean, user-friendly web interfaces.
