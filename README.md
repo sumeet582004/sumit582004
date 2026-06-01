@@ -32,7 +32,7 @@ A passionate Data Analyst and Web Development enthusiast. I love turning raw dat
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sumeet582004&show_icons=true&theme=radial&hide_border=true" alt="Sumit's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeet582004&theme=radial&hide_border=true" alt="Sumit's GitHub Streak" />
 </p>
 ---
 
