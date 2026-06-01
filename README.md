@@ -23,11 +23,10 @@ A passionate Data Analyst and Web Development enthusiast. I love turning raw dat
 
 ### 📁 Featured Projects
 
-#### 1. YouTube Clone 🎥
-- **Description:** A fully responsive front-end clone of YouTube's homepage.
-- **Tech Stack:** HTML5, CSS3
-- **Key Features:** Clean UI, responsive grid layout, and hover effects.
-
+### 2. SQL Practice Solutions 📊
+- **Description:** Daily SQL challenge solutions from sql-practice.com categorized by difficulty level.
+- **Tech Stack:** SQL (Structured Query Language)
+- **Repo Link:** [View SQL Portfolio](https://github.com/sumeet582004/SQL-Practice-Solutions)
 
 ---
 
