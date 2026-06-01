@@ -31,7 +31,9 @@ A passionate Data Analyst and Web Development enthusiast. I love turning raw dat
 ---
 
 ### 📈 GitHub Stats
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeet582004&show_icons=true&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumeet582004&show_icons=true&theme=radial&hide_border=true" alt="Sumit's GitHub Stats" />
+</p>
 ---
 
 ### 🤝 Connect with Me
